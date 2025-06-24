@@ -1,6 +1,6 @@
 # 🤖 NFTI AI — NFTI Your AI Agents & Virtual IP
 
-**Bridging Intelligent Agents, MCP Protocols, and RWA to create a new era of Digital Sovereignty.**
+**Bridging Intelligent Agents, MCP Protocols, and RWA to create a new era of Digital Sovereignty**
 
 ---
 
