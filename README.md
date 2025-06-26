@@ -97,12 +97,12 @@ Full documentation is available at [nfti.ai](https://nfti.ai).
 
 NFTI tools support all major LLM toolchain SDKs:
 
-* [Vercel AI SDK](https://nfti.ai/sdks/ai-sdk)
-* [LangChain](https://nfti.ai/sdks/langchain)
-* [LlamaIndex](https://nfti.ai/sdks/llamaindex)
-* [Firebase Genkit](https://nfti.ai/sdks/genkit)
-* [OpenAI SDK](https://nfti.ai/sdks/openai)
-* [MCP Gateway](https://nfti.ai/tools/mcp)
+* [Vercel AI SDK](https://agentic.so/sdks/ai-sdk)
+* [LangChain](https://agentic.so/sdks/langchain)
+* [LlamaIndex](https://agentic.so/sdks/llamaindex)
+* [Firebase Genkit](https://agentic.so/sdks/genkit)
+* [OpenAI SDK](https://agentic.so/sdks/openai)
+* [MCP Gateway](https://agentic.so/sdks/genaiscript)
 
 ## Tools
 
