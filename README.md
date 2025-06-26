@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nfti.ai">
-    <img alt="NFTI" src="/docs/media/nfti-header.jpg" width="308">
+    <img alt="NFTI" src="/NFTI.png" width="308">
   </a>
 </p>
 
