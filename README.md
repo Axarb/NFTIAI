@@ -125,9 +125,6 @@ See the [NFTI Tools Directory](https://nfti.ai/tools) for the full list.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ashrafsamhouri"><img src="https://avatars.githubusercontent.com/u/97393596?v=4?s=100" width="100px;" alt="ashrafsamhouri"/><br /><sub><b>ashrafsamhouri</b></sub></a><br /><a href="#plugin-ashrafsamhouri" title="Plugin/utility libraries">🔌</a></td>
-    </tr>
-    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://steercampaign.com"><img src="https://avatars.githubusercontent.com/u/12627658?v=4?s=100" width="100px;" alt="Mohammad Abu Musa"/><br /><sub><b>Mohammad Abu Musa</b></sub></a><br /><a href="#projectManagement-mabumusa1" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kanarelo"><img src="https://avatars.githubusercontent.com/u/393261?v=4?s=100" width="100px;" alt="Mukewa Wekalao"/><br /><sub><b>Mukewa Wekalao</b></sub></a><br /><a href="#plugin-kanarelo" title="Plugin/utility libraries">🔌</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://osamahaikal.me/"><img src="https://avatars.githubusercontent.com/u/72370395?v=4?s=100" width="100px;" alt="Osama Abdallah Essa Haikal"/><br /><sub><b>Osama Abdallah Essa Haikal</b></sub></a><br /><a href="#plugin-OsamaHaikal" title="Plugin/utility libraries">🔌</a></td>
