@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/nfti/actions/workflows/main.yml"><img alt="Build Status" src="/NFTI.png" /></a>
   <a href="https://www.npmjs.com/package/@nfti/core"><img alt="NPM" src="https://img.shields.io/npm/v/@nfti/core.svg" /></a>
   <a href="https://github.com/your-org/nfti/blob/main/license"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
   <a href="https://prettier.io"><img alt="Prettier Code Formatting" src="https://img.shields.io/badge/code_style-prettier-brightgreen.svg" /></a>
